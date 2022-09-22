@@ -73,10 +73,3 @@ const product = () => {}
 // Funciones autoejecutables
 
 // factory function -> funciones que general funciones
-
-
-
-
-
-
-
