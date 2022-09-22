@@ -27,9 +27,9 @@ function avisar(error, mensaje) {
 /*
 function cb(error, data) {
     if(error) {
-
+        manejo del error
     }
-    
+    continuar
 }
 */
 
@@ -104,6 +104,6 @@ Ejercicio:
     2º Pagar la despensa -> 4s
     3º Llegando a casa -> 5s
 
-    Que da una de estas acciones sean asincronas
+    Que cada una de estas acciones sean asincronas
 */
 
