@@ -62,24 +62,7 @@ goToSuperMArket((error, message) => {
 // callback hell
 
 
-/*
-Proceso de inscripción a Kodemia
 
-    1º recibir información | entrevista 
-    2º Enviar la oferta 
-    3º Inscripción
-    4º prebootcamp
-
-    Objetivo: Plasmar en funciones y callbacks dicho proceso
-
-    const inscriptionKodemiaCin = {
-        name: 'Cin Ruiz',
-        isInterviewed: false, // true
-        hasOffer: false,
-        isInscript: false,
-        canTakeClass: false
-    }
-*/
 
 
 
