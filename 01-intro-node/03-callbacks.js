@@ -107,3 +107,31 @@ Ejercicio:
     Que cada una de estas acciones sean asincronas
 */
 
+
+// Declarando/definición de la funcion
+
+                // parametros
+function holaKoders(name) {
+    return 'Hola ' + name
+}
+
+// Ejecutando la función
+    // argumentos
+holaKoder('Annie')
+
+
+
+// 
+
+function saludar(despedirme) {
+    console.log('Rafa esta saludando')
+    despedirme()
+}
+
+// Firma de un metodo: Es la forma en la que va a recibir la funcion sus parametros
+
+saludar((error, data) => {
+    console.log('Rafa se esta despidiendo')
+})
+
+// callbacks -> son funciones anonimas
