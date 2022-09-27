@@ -1,0 +1,22 @@
+{
+    "koders": [
+        {
+            "id": 1,
+            "name": "Rafa",
+            "lastName": "Villaseñor",
+            "age": 24
+        },
+        {
+            "id": 2,
+            "name": "Fer",
+            "lastName": "Toledo",
+            "age": 27
+        },
+        {
+            "id": 3,
+            "name": "Deni",
+            "lastName": "Ramirez",
+            "age": 25
+        }
+    ]
+}
