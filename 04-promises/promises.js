@@ -221,7 +221,7 @@ main()
 // console.log(personAtSuperMarket)
 
 /*
-Prácticas: 
+Prácticas Promesas: 
     1. Realizar el proceso de inscripcion a Kodemia con promesas
         - Encadenamiento de promesas
         - async / await
